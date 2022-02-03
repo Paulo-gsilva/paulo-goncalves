@@ -24,7 +24,7 @@
 
 
 <div align="center">
-
+ <h3>Linguagens Frequentes</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulo-gsilva&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-gsilva&theme=github_dark" />
 
