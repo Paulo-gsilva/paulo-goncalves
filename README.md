@@ -11,10 +11,10 @@
 
 <h3> 🗃&nbsp; Minhas Contribuições : </h3>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=JefersonTaiyou&theme=github)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paulo-gsilva&theme=github)
  
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
  
-![Snake animation](https://github.com/JefersonTaiyou/JefersonTaiyou/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Paulo-gsilva/paulo-goncalves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
