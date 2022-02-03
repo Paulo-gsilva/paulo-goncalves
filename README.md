@@ -28,12 +28,7 @@
 
 </div>
 
-<div>
- <p><br><br></p>
-![snake gif](https://github.com/Paulo-gsilva/paulo-goncalves/blob/output/github-contribution-grid-snake.svg)
-</div>
 
-<div>
 
  ## Contato
  <a href = "https://t.me/PauloPK04"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
