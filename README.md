@@ -32,10 +32,9 @@
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
 
 </div>
------------------------
 <div>
 
- <h3 align = "left">Contato</h3>
+ ## Contato
  <a href = "https://t.me/PauloPK04"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
  <a href = "https://www.linkedin.com/in/paulo-gon%C3%A7alves-2589a1212/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  <a href = "https://www.instagram.com/paulo.gsilva4"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
