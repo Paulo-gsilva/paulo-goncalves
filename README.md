@@ -21,7 +21,6 @@
 </div>
 
 <div align="center">
- <h3>Linguagens Frequentes</h3>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulo-gsilva&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-gsilva&theme=github_dark" />
 
@@ -31,4 +30,9 @@
  
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
 
+</div>
+
+<div>
+ <h3 align = "center">Contato</h3>
+ <a href = "https://t.me/PauloPK04"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </div>
