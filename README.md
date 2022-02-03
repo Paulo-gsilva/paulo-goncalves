@@ -19,7 +19,7 @@
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" title="GIT" style="max-width: 100%;" width="40" height="40" align = "center">
 
- ## <br>
+ <p><br></p>
 </div>
 
 <div align="center">
