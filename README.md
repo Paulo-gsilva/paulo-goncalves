@@ -19,9 +19,9 @@
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" title="GIT" style="max-width: 100%;" width="40" height="40" align = "left">
 
-##Linguagens Frequentes
 </div>
 
+##Linguagens Frequentes
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulo-gsilva&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-gsilva&theme=github_dark" />
