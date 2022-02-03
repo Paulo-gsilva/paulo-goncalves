@@ -14,6 +14,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="max-width: 100%;" width="40" height="40" align = "left">
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostGreSQL" title="PostGreSQL" style="max-width: 100%;" width="40" height="40" align = "left">
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCODE" title="VSCODE" style="max-width: 100%;" width="40" height="40" align = "left">
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" title="GIT" style="max-width: 100%;" width="40" height="40" align = "left">
+
 
 </div>
 
