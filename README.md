@@ -19,6 +19,7 @@
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" title="GIT" style="max-width: 100%;" width="40" height="40" align = "center">
 
+ ## <br>
 </div>
 
 <div align="center">
@@ -26,8 +27,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-gsilva&theme=github_dark" />
 
 <h3> 🗃&nbsp; Minhas Contribuições </h3>
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paulo-gsilva&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulo-gsilva&theme=github)
  
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
 
