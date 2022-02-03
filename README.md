@@ -12,6 +12,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" title="CSS3" style="max-width: 100%;" width="40" height="40" align = "left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" style="max-width: 100%;" width="40" height="40" align = "left">
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostGreSQL" title="PostGreSQL" style="max-width: 100%;" width="40" height="40" align = "left">
+
 </div>
 
 <div align="center">
