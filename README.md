@@ -17,15 +17,11 @@
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCODE" title="VSCODE" style="max-width: 100%;" width="40" height="40" align = "left">
  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" title="GIT" style="max-width: 100%;" width="40" height="40" align = "left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="GIT" title="GIT" style="max-width: 100%;" width="40" height="40" align = "left"/>
 
 </div>
 
 
-<div>
-## Linguagens Frequentes
-</div>
---------------------------------------
 
 <div align="center">
 
