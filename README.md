@@ -14,7 +14,6 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Paulo-gsilva&theme=github)
  
  <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
- 
-![Snake animation](https://github.com/Paulo-gsilva/paulo-goncalves/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
