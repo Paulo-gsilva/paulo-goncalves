@@ -26,11 +26,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Paulo-gsilva&theme=github_dark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Paulo-gsilva&theme=github_dark" />
 
-<h3> 🗃&nbsp; Minhas Contribuições </h3>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Paulo-gsilva&theme=github)
- 
- <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
-
 </div>
 <div>
 
