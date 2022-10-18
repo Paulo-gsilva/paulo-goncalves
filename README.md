@@ -1,7 +1,7 @@
 ## Olá, bem-vindo(a) ao meu perfil! 😄
 
 - :brain: Atualmente cursando Ciência da Computação na UFC Russas.
-- :computer: Estudando Desenvolvimento Web pela UDEMY.
+- :computer: Estudando Desenvolvimento Web.
 - :dart: Buscando sempre melhorar minhas capacidades pessoais e profissionais.
 
 
